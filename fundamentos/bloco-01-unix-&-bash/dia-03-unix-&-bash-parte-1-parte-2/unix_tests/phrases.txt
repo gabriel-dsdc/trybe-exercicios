@@ -1,0 +1,10 @@
+HTML
+CSS
+JavaScript
+Python
+Typescript
+ReactJS
+ReactNative
+fox
+Bootstrap
+Tailwind
