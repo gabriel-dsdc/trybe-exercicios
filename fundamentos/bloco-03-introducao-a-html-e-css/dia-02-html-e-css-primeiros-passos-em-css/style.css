@@ -1,0 +1,29 @@
+h1 {
+  font-family: sans-serif;
+}
+p {
+  font-weight: 600;
+  font-size: 3em;
+  font-style: italic;
+  line-height: normal;
+  text-align: center;
+  text-decoration: overline underline wavy blue;
+}
+body {
+  font-size: 16px;
+  background-color: #03c01f85;
+}
+li {
+  list-style-type: none;
+  color: white;
+}
+.favoriteBlack {
+  background-color: black;
+}
+.favoriteWhite {
+  background-color: white;
+  color: black;
+}
+.favoriteBlue {
+  background-color: blue;
+}
