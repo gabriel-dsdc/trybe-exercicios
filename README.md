@@ -6,25 +6,28 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web :heavy_check_mark:
+
+<details>
+<summary>Bloco 1 ao 10</summary>
 
 ##### Bloco 1: Introdução - Unix & Shell
 
-- [ ] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
+- [x] 1-3: _Unix & Shell- Part 1_
+- [x] 1-4: _Unix & Shell- Part 2_
 
 ##### Bloco 2: Git & GitHub
 
-- [ ] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [x] 2-1: _O que é e para que serve?_
+- [x] 2-2: _Entendendo os comandos_
+- [x] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS
 
-- [ ] 3-1: _HTML & CSS - Estruturas de página_
-- [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [ ] 3-4: _HTML Semântico_
+- [x] 3-1: _HTML & CSS - Estruturas de página_
+- [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
+- [x] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [x] 3-4: _HTML Semântico_
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
 
 ##### Bloco 4: Introdução - JavaScript
@@ -83,8 +86,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 10-2: _Jest - Testes Assí­ncronos_
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+</details>
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
+
+<details>
+<summary>Bloco 11 ao 19</summary>
 
 ##### Bloco 11: Introdução - React
 
@@ -139,8 +146,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 19: Projeto Final de Front-end
 
 - [ ] 19-1: _[Projeto - App de Receitas]()_
+</details>
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
+
+<details>
+<summary>Bloco 20 ao 34</summary>
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
@@ -235,8 +246,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 34: Projeto
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
+</details>
 
 ## Ciência da Computação :hourglass_flowing_sand:
+
+<details>
+<summary>Bloco 35 ao 41</summary>
 
 ##### Bloco 35: Introdução - Ciência da Computação
 
@@ -253,4 +268,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 36-4: _Entrada e Saí­da de dados_
 - [ ] 35-5: _[Projeto - Tech news]()_
 
+##### Bloco 37: Python
+
+##### Bloco 38: Python
+
+##### Bloco 39: Python
+
+##### Bloco 40: Python
+
+##### Bloco 41: Python
+
 # [...]
+
+</details>
